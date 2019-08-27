@@ -29,3 +29,7 @@ Python Application for to capture image using Camera then apply OCR to recognize
     
       > Check the Anaconda Prompt for details about Text Found
       > Only do the speech if visible text found in the picture.
+
+
+#### Denote:
+Bitcoin: 3QFpMuvMcMaZ6cQUHqgrd2mDirz1JZi1W8
