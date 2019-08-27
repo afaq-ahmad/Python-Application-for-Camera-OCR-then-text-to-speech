@@ -31,5 +31,6 @@ Python Application for to capture image using Camera then apply OCR to recognize
       > Only do the speech if visible text found in the picture.
 
 
-#### Denote:
+#### Support:
 Bitcoin: 3QFpMuvMcMaZ6cQUHqgrd2mDirz1JZi1W8
+
